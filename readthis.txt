@@ -1,0 +1,11 @@
+$ git log
+commit 490e3fec8ac26aa3e8ea7025998e30b982512f1f (HEAD -> remote, origin/second, origin/master, master)
+Author: Dimitri Kronqvist <dimitri.kronqvist@iths.se>
+Date:   Thu Nov 5 21:08:31 2020 +0100
+
+    First commit
+
+    Test
+
+    Test
+
